@@ -1,15 +1,15 @@
 {
-  "name": "eos-web-keygen",
-  "description": "Simple public/private key generator for EOS.",
+  "name": "arisen-keygen-2",
+  "description": "Simple public/private key generator for ARISEN.",
   "version": "1.0.0",
-  "author": "Jordi Goyanes",
+  "author": "BenchX",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "eosjs-ecc": "^2.0.1",
+    "arisenjs-ecc": "~1.0.0",
     "vue": "^2.5.3",
     "vuetify": "^0.17.4"
   },

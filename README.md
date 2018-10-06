@@ -1,9 +1,10 @@
-# EOS private and public key generator
-[Go to generator](https://eoskeygen.netlify.com/)
-![demo screenshot](https://i.imgur.com/The7XgS.png)
+# Arisen Private & Public Keygen
+[Go to generator](https://keys.arisen.tools)
+![header](https://raw.githubusercontent.com/ArisenIO/arisen-media/master/repo-headers/arisen-keygen2-header.png)
+
 Clone repository:
 ```
-git clone https://github.com/jordigoyanes/eos-web-keygen.git && cd eos-web-keygen
+git clone https://github.com/ARISENIO/arisen-keygen-2.git && cd arisen-keygen-2
 ```
 Install dependencies:
 ```
