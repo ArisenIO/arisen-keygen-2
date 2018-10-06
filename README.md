@@ -1,6 +1,5 @@
-# Arisen Private & Public Keygen
-[Go to generator](https://keys.arisen.tools)
-![header](https://raw.githubusercontent.com/ArisenIO/arisen-media/master/repo-headers/arisen-keygen2-header.png)
+<p align="center">![header](https://raw.githubusercontent.com/ArisenIO/arisen-media/master/repo-headers/arisen-keygen2-header.png)</p>
+
 
 Clone repository:
 ```
