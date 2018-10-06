@@ -1,4 +1,4 @@
-<p align="center">![header](https://raw.githubusercontent.com/ArisenIO/arisen-media/master/repo-headers/arisen-keygen2-header.png)</p>
+<center>![header](https://raw.githubusercontent.com/ArisenIO/arisen-media/master/repo-headers/arisen-keygen2-header.png)</center>
 
 
 Clone repository:
